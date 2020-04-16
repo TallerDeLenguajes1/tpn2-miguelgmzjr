@@ -1,0 +1,5 @@
+2f) No puedo ver el archivo tp2_1_2.cpp porque está alojado en la rama Opcion_2 y en este momento estoy posicionado sobre la rama master
+
+2i) Al cambiar de Branch me muestra el contenido de esa rama.
+
+2j) Al combinar los dos branch el contenido tambien se combinó.
